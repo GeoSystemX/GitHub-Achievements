@@ -84,7 +84,7 @@
 
 # ℹ️ اطلاعات بیشتر ℹ️
 
-#### می‌توانید اطلاعات بیشتر دربارهٔ نشان‌های GitHub را از طریق این [لینک](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) پیدا کنید.
+#### می‌توانید اطلاعات بیشتر دربارهٔ نشان‌های GitHub را از طریق این [لینک](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) مشاهده کنید.
 
 <br>
 
